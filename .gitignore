@@ -3,4 +3,8 @@ ratings.csv
 movies_metadata.csv
 
 # Add Postgres password
+<<<<<<< HEAD
 config.py
+=======
+config.py
+>>>>>>> 50bd7448a477aa44f8c3a3d29cb948c28d667dfc
