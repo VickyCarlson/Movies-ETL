@@ -1,6 +1,5 @@
 # Add large files.
 ratings.csv
-movies_metadata.csv
 
 # Add Postgres password
 <<<<<<< HEAD
